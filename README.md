@@ -17,7 +17,7 @@ const snixxper = {
   exploring: ["AI Workflows", "APIs", "Creative Coding"],
   digitalPartner: "Tsunomon",
   footballClub: "Sporting Cristal",
-  music: "TWICE / ONCE OT9",
+  music: "TWICE",
   status: "always evolving"
 } as const;
 ```
@@ -32,7 +32,7 @@ Soy ingeniera de sistemas y me gusta transformar ideas en soluciones útiles. Aq
 $ evolution --check
 [FOUNDATION]  systems thinking
 [BUILDING]    tools & digital solutions
-[EXPLORING]   cloud integrations + AI
+[EXPLORING]   omni + cloud integrations + AI
 [NEXT STAGE]  keep learning, keep shipping
 ```
 
