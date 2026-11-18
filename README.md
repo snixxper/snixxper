@@ -22,11 +22,11 @@ const snixxper = {
 } as const;
 ```
 
-Soy ingeniera de sistemas y me gusta transformar ideas en soluciones útiles. Aquí conviven proyectos técnicos, experimentos creativos y un poquito de mi Digital World. 👾
+Soy ingeniera de sistemas y me gusta transformar ideas en soluciones útiles o eso creo 👾 Aquí conviven proyectos técnicos, experimentos creativos
 
 <img src="./assets/section-02.svg" width="100%" alt="02 - Tech stack" />
 
-**Enfoque actual:** `Cloud` · `APIs` · `Automation` · `AI workflows` · `Digital platforms`
+**Enfoque actual:** `Omni` · `Cloud` · `APIs` · `Automation` · `AI workflows` · `Digital platforms`
 
 ```text
 $ evolution --check
