@@ -40,6 +40,7 @@ $ evolution --check
 
 | Mission | Description |
 | :-- | :-- |
+| ✈️ [flights-mcp-playwright](https://github.com/snixxper/flights-mcp-playwright) | Busca vuelos en Google Flights desde Claude Desktop (servidor MCP con Playwright). |
 | 🛠️ [presalesgen](https://github.com/snixxper/presalesgen) | Herramientas y automatización para flujos de preventa. |
 | 🧩 [pokedex](https://github.com/snixxper/pokedex) | Proyecto personal de experimentación. |
 | 🎮 [pokesnixx](https://github.com/snixxper/pokesnixx) | Un rincón para proyectos geek y creativos. |
